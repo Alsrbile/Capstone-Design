@@ -22,3 +22,4 @@
 YOLOv7 <br>
 Doosan Robotics <br>
 Intel RealSense <br>
+<span style="color:red">붉은 색</span>
