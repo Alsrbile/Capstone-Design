@@ -1,7 +1,7 @@
 # Manipulator system for plant factory cultivation module
 
 <div align=center>
-	2023 Seoultech Univ. Capstone Design <br>
+	**2023 Seoultech Univ. Capstone Design** <br>
 	식물공장 재배상 모듈용 로봇 시스템 개발
 	<br><br>
 </div>
@@ -15,9 +15,9 @@
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
 </div>
 
-# Description
+## Description
 
-# Reference
+## Reference
 YOLOv7 <br>
 Doosan Robotics <br>
 Intel RealSense <br>
