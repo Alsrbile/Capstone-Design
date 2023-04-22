@@ -2,7 +2,8 @@
 
 <div align=center>
 	2023 Seoultech Univ. Capstone Design <br>
-	주제: 식물공장 재배상 모듈용 로봇 시스템 개발
+	식물공장 재배상 모듈용 로봇 시스템 개발
+	<br><br>
 </div>
 
 
