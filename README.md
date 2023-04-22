@@ -25,7 +25,7 @@ This program is implemented at Ubuntu 20.04, ROS-Noetic
 Our project needs Doosan-Robotic, Intel-RealSense package
 
 ## Reference
-YOLOv7 segmentation [YOLOv7](https://github.com/WongKinYiu/yolov7) <br>
+YOLOv7 segmentation: [YOLOv7](https://github.com/WongKinYiu/yolov7) <br>
 Doosan Robotics ver. Noetic<br>
 Intel RealSense <br>
 
