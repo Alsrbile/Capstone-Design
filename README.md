@@ -17,6 +17,8 @@
 </div>
 
 ## Description
+Doosan-Robotics collaborative robot m1013
+Intel-RealSense 435i
 ## Build
 This program is implemented at Ubuntu 20.04, ROS-Noetic
 
