@@ -8,4 +8,6 @@
 
 <div align=center>
 	<img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white"/>
+	<img src=http://www.w3.org/2000/svg-blue?style=flat&logo=python&logoColor=white"/>
+	
 </div>
