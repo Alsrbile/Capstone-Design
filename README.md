@@ -1,10 +1,10 @@
 # Manipulator system for plant factory cultivation module
 
 <div align=center>
-	<span style="color : #6B8E23">식물공장 재배상 모듈용 로봇 시스템 개발 </span><br> 
+	<b>식물공장 재배상 모듈용 로봇 시스템 개발 </b><br> 
 	<i>2023 Seoultech Univ. Capstone Design</i> 
 	<br><br>
-	<p style="color : #be0000;">빨강색</p>
+	
 </div>
 
 
@@ -22,4 +22,4 @@
 YOLOv7 <br>
 Doosan Robotics <br>
 Intel RealSense <br>
-<span style="color:red">붉은 색</span>
+
