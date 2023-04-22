@@ -1,7 +1,7 @@
 # Manipulator system for plant factory cultivation module
 
 <div align=center>
-	<big><b><span style="color : #6B8E23">식물공장 재배상 모듈용 로봇 시스템 개발 </span></b></big> <br> 
+	<span style="color : #6B8E23">식물공장 재배상 모듈용 로봇 시스템 개발 </span><br> 
 	<i>2023 Seoultech Univ. Capstone Design</i> 
 	<br><br>
 	<p style="color : #be0000;">빨강색</p>
