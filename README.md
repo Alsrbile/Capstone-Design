@@ -1,4 +1,4 @@
-# Manipulator system for plant factory cultivation module
+# Manipulator movement system through depth image and color image integration
 
 <div align=center>
 	<b>식물공장 재배상 모듈용 로봇 시스템 개발 </b><br> 
