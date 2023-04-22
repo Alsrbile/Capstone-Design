@@ -18,3 +18,6 @@
 # Description
 
 # Reference
+YOLOv7
+Doosan Robotics
+Intel RealSense
