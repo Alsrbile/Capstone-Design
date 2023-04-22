@@ -17,6 +17,10 @@
 </div>
 
 ## Description
+## Build
+This program is implemented at Ubuntu 20.04, ROS-Noetic
+
+Our project needs Doosan-Robotic, Intel-RealSense package
 
 ## Reference
 YOLOv7 <br>
