@@ -14,6 +14,8 @@
 	<img src="https://img.shields.io/badge/python-blue?style=flat&logo=python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+	<img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256743/file-type-light-pcl-icon-md.png/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+	https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256743/file-type-light-pcl-icon-md.png
 </div>
 
 ## Description
